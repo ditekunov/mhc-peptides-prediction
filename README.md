@@ -13,7 +13,7 @@ Short description of the dataset, that was used (https://github.com/ditekunov/mh
 
 ### Outcome meas-based classifiers metrics:
 
-| Model name                  | Accuracy real | AUC-ROC real | F-measure | Average.  |
+| Model name                  | Accuracy real | AUC-ROC real | F-measure | Average   |
 |-----------------------------|---------------|--------------|-----------|-----------|
 | KNN classifier with 1 NN    | 99.8862 %     | -            | 99.9998 % | 99,9431 % |
 | Bootstrapped decision tree  | 99.8863 %     | 99.9998 %    | 99.7504 % | 99.8788 % |
