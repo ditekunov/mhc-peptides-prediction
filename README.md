@@ -1,5 +1,5 @@
 ## mhc-peptides-classifier
-Neural network classifier, that predicts the degree of binding of peptide proteins. 
+Classifier, that predicts the degree of binding of peptide proteins. 
 
 Short description of the dataset, that was used (https://github.com/ditekunov/mhc-peptides-dataset):
 
