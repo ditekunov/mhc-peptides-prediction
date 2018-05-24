@@ -23,7 +23,7 @@ Short description of the dataset, that was used (https://github.com/ditekunov/mh
 | Linear regression           | 80.7395 %     | -            | 99.7304 % | 90,2350 % |
 
 
-### Used llibraries:
+### Used libraries:
 
 * numpy
 * pandas
