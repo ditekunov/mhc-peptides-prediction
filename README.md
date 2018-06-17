@@ -1,4 +1,4 @@
-## mhc-peptides-classifier
+## mhc-peptides-prediction
 A set of different models, that predict the degree of binding of peptide proteins.
 
 Short description of the dataset, that was used (https://github.com/ditekunov/mhc-peptides-dataset):
