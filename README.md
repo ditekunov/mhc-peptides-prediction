@@ -1,5 +1,5 @@
 ## mhc-peptides-classifier
-Classifier, that predicts the degree of binding of peptide proteins. 
+A set of different models, that predict the degree of binding of peptide proteins.
 
 Short description of the dataset, that was used (https://github.com/ditekunov/mhc-peptides-dataset):
 
